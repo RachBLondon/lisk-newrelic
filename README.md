@@ -72,7 +72,7 @@ https://github.com/LiskHQ/lisk-newrelic/graphs/contributors
 
 ## License
 
-Copyright © 2017 Lisk Foundation
+Copyright © 2018 Lisk Foundation
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
